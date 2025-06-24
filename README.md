@@ -1,5 +1,4 @@
-# 👋 Xin chào, tôi là Trịnh Hòa
-
+# 👋 Hello, I'm Hoa Trinh
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Vietnam;Coding+for+the+Money+💰;Full-stack+Developer)
@@ -10,8 +9,7 @@
 
 ---
 
-## 🌐 Kết nối với tôi
-
+## 🌐 Connect with Me
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hòa-trịnh-521049301)
@@ -21,8 +19,7 @@
 
 ---
 
-## 🛠️ Ngôn ngữ và Công cụ
-
+## 🛠️ Languages and Tools
 <div align="center">
 
 ### 💻 Languages
@@ -59,36 +56,7 @@
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trinhhoa-23520508&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhhoa-23520508&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhhoa-23520508&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-</div>
-
----
-
-## 🎯 Mục tiêu hiện tại
-
-- 💰 Kiếm tiền từ code (obviously!)
-- 🚀 Nâng cao kỹ năng full-stack development  
-- 📱 Phát triển ứng dụng mobile với React Native
-- ☁️ Tìm hiểu về cloud technologies và DevOps
-
----
-
-<div align="center">
-  
-  ### 💡 "Code for money, not for passion" 
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=trinhhoa-23520508&style=for-the-badge&color=brightgreen)
-  
-</div>
-
----
