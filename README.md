@@ -53,7 +53,8 @@
 </div>
 
 
-<h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
-
-<a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=phanxuanquang&theme=holi&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
-<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
+## GitHub Statistics
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trinhhoa-23520508&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhhoa-23520508&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
