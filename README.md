@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hoa Trinh
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Vietnam;Coding+for+the+Money+💰;Full-stack+Developer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Vietnam;Backend+Developer)
   
   ### 🚀 Software Engineer | 💰 In it for the Money | 🇻🇳 Vietnam
   
